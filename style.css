@@ -1,0 +1,64 @@
+.heading{
+    font-family:'Times New Roman', Times, serif; 
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status{
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+body{
+    background-size:cover; 
+    background-position:center;
+}
+
+canvas{
+    box-shadow:10px 10px 10px palevioletred; 
+    border-radius:10px;
+
+}
+
+#back{
+    font-size:16px;
+    font-family:'Times New Roman', Times, serif;
+    margin-top:50px;
+    position:sticky;
+}
+
+#bookshelf{
+    width:350px;
+    height:350px;
+    margin-top:50px;
+    margin-left:200px;
+}
+
+#vase{
+    width:350px;
+    height:350px;
+    margin-top:50px;
+    margin-left:200px;
+}
+
+#curtain{
+    width:550px;
+    height:550px;
+    margin-top:50px;
+    margin-left:200px;
+}
+
+#mirror{
+    width:550px;
+    height:550px;
+    margin-top:50px;
+    margin-left:200px;
+}
+
+#desk{
+    width:550px;
+    height:550px;
+    margin-top:50px;
+    margin-left:200px;
+}
